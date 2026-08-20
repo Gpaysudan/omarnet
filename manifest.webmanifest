@@ -1,0 +1,6 @@
+{
+"name":"OMAR NET - عمر للحلول الشبكية","short_name":"OMAR NET","lang":"ar","dir":"rtl",
+"start_url":"./","scope":"./","display":"standalone","orientation":"any",
+"background_color":"#071521","theme_color":"#071521",
+"icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
