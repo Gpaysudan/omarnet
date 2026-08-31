@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173743"/><stop offset="1" stop-color="#07151d"/></linearGradient><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dfbd75"/><stop offset="1" stop-color="#9e7737"/></linearGradient></defs>
+  <rect width="800" height="800" rx="120" fill="url(#g)"/>
+  <circle cx="400" cy="300" r="135" fill="#d6b36a" opacity=".13"/>
+  <circle cx="400" cy="285" r="112" fill="url(#s)" opacity=".92"/>
+  <path d="M234 650c23-132 89-204 166-204s143 72 166 204" fill="#0b6e4f"/>
+  <path d="M310 487l90 88 90-88 48 163H262z" fill="#0d2635"/>
+  <path d="M364 478h72l-36 98z" fill="#f7f3e9"/>
+  <path d="M400 565l26 85h-52z" fill="#c91f2b"/>
+  <circle cx="357" cy="273" r="10" fill="#122029"/><circle cx="443" cy="273" r="10" fill="#122029"/>
+  <path d="M352 344c30 24 66 24 96 0" fill="none" stroke="#805b2b" stroke-width="10" stroke-linecap="round"/>
+  <path d="M272 216c33-87 219-111 263 8-52-41-205-45-263-8z" fill="#101b20"/>
+  <text x="400" y="735" text-anchor="middle" fill="#d6b36a" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="6">OMAR NET</text>
+</svg>
